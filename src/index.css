@@ -1,27 +1,17 @@
-/* body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-} */
-
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
 body{
-  color: #2f3ea5 !important;
+  color: #064f0b !important;
+  /* font-family: 'Cairo', sans-serif; */
+
 }
 .navbar-light .navbar-brand{
-    color: #2f3ea5 !important;
+    color: #064f0b !important;
     font-size: 32px !important;
 
 }
 .navbar-light .navbar-brand::first-letter{
     color: #fff !important;
-    background-color: #2f3ea5;
+    background-color: #064f0b;
     margin-right: 10px;
     padding:0px 15px;
     border-radius:50% ;
@@ -33,7 +23,7 @@ body{
     -o-border-radius:50% ;
 }
 .footer {
-  background-color:#575f80;
+  background-color:#055c0b;
   color: #fff;
   padding: 30px 10px;
   text-align: center;
@@ -41,5 +31,4 @@ body{
 }
 .footer span {
   font-weight: bold;
-  color: ;
 }

@@ -7,9 +7,9 @@ const Home = () => {
       <div
         className="card text-white"
         style={{ height: "550px",
-backgroundImage:"linear-gradient(to left, #f0f2f0, #000c40)"
+backgroundImage:"linear-gradient(to left, #f0f2f0, #000c40)",
+backgroundImage: "linear-gradient(to top, rgba(62, 253, 9, 0.489), rgb(15, 45, 3))"
  }} 
-
       >
         {/* <img
           src="https://image.shutterstock.com/image-photo/shopaholic-seasonal-sales-concept-excited-600w-1612837594.jpg"

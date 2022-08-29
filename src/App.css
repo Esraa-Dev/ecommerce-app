@@ -1,6 +1,6 @@
 .navbar-nav a{
 font-size: 18px;
-color: #2f3ea5 !important;
+color: #064f0b !important;
 font-weight: bold;
 text-align: center;
 }
@@ -8,11 +8,11 @@ text-align: center;
     content: "";
     height: 3px;
     width: 70px;
-    background-color: #1A237E;
+    background-color: #064f0b;
     display: block;
 }
 .buttons a{
-    background-color: #1A237E !important;
+    background-color: #064f0b !important;
     color: #fff;
 }
 
